@@ -61,4 +61,3 @@ jobs:
           plugin_starlists_shuffle_repositories: yes
           plugin_followup: yes
           plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
