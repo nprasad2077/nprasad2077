@@ -26,7 +26,9 @@ jobs:
 
           # Options
           user: nprasad2077
-          template: classic
+          template: repository
+          filename: metrics.repository.svg
+          repo: metrics
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: America/Chicago
@@ -57,3 +59,6 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 2
           plugin_starlists_shuffle_repositories: yes
+          plugin_followup: yes
+          plugin_projects: yes
+          plugin_projects_repositories: lowlighter/metrics/projects/1
