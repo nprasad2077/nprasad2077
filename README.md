@@ -1,4 +1,14 @@
+
 [![Metrics](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml/badge.svg)](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nprasad2077&theme=github_dark) 
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nprasad2077&theme=github_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nprasad2077&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nprasad2077&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nprasad2077&theme=github_dark&utcOffset=8) 
+
+
 
 ### Hi there 👋
 
@@ -18,3 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Metrics](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml/badge.svg)](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml)
+
+
