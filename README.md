@@ -1,3 +1,5 @@
+[![Metrics](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml/badge.svg)](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml)
+
 ### Hi there 👋
 
 ![Metrics](/github-metrics.svg)
