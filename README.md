@@ -1,4 +1,3 @@
-
 [![Metrics](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml/badge.svg)](https://github.com/nprasad2077/nprasad2077/actions/workflows/main.yml)
 [![Test and Lint](https://github.com/nprasad2077/github-profile-summary-cards/actions/workflows/test-and-lint.yml/badge.svg)](https://github.com/nprasad2077/github-profile-summary-cards/actions/workflows/test-and-lint.yml)
 
